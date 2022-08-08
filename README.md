@@ -19,4 +19,4 @@
 * rustc 1.62.0
 * actix-web
 * diesel
-* postgresql
+* postgresql: [こちら](https://hub.docker.com/layers/postgres/library/postgres/12/images/sha256-15017a063c249afe1a87f6c6b163eddc3205601040b22c0f8b10625ae6c75402?context=explore)のDocker imageをそのままローカルで起動
