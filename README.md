@@ -15,8 +15,10 @@ Heroku URL: https://stormy-mesa-85373.herokuapp.com/
 * todoの更新: `PUT /api/v1/todos/:id`
 * todoの削除: `DELETE /api/v1/todos/:id`
 
+※**TODOテスト.postman_collection.json**をPostmanで読み込ませることで実行確認できます。(認証等ありません)
+
 ## 環境
 * rustc 1.62.0
 * actix-web
 * diesel
-* postgresql: [こちら](https://hub.docker.com/layers/postgres/library/postgres/12/images/sha256-15017a063c249afe1a87f6c6b163eddc3205601040b22c0f8b10625ae6c75402?context=explore)のDocker imageをそのままローカルで起動
+* postgresql
