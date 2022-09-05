@@ -7,7 +7,7 @@
 ソースコード: https://github.com/yuki-learn/learn-web-api/tree/main/todo-app/server
 
 ### URI
-ベースURI: `/api/v1`
+Heroku URL: https://stormy-mesa-85373.herokuapp.com/
 
 * todoを一覧取得: `GET /api/v1/todos`
 * idでtodoを取得: `GET /api/v1/todos/:id`
